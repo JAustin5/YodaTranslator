@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yoda Translator</string>
+    <string name="output_text">Yoda text translation will appear here.</string>
+    <string name="button_text">Translate</string>
+    <string name="translation_failed">Translation failed</string>
+    <string name="editHint">Enter English text to be translated.</string>
+</resources>

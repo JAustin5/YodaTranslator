@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="startLay">15dp</dimen>
+    <dimen name="editWidth">390dp</dimen>
+    <dimen name="textVert">20dp</dimen>
+</resources>
